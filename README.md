@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> WT class </title>
+    <title> My favourite cartoon </title>
   </head>
   <body>
-    Hello
+    <h1>Oswald, the octopus</h1>
   </body>
   </html>
